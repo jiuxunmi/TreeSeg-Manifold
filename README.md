@@ -10,8 +10,6 @@
  
 This repository contains the official C++ implementation of the Individual Tree Segmentation (ITS) framework presented in:
  
-> **Individual Tree Segmentation from Point Clouds Integrating Topological Manifolds and Biological Allometric Priors**
-> Deng Xiangyi, Zheng Yonghong, Li Lianying — Wuhan University *(Chinese Core Journal, under review)*
  
 针对复杂林分下地基激光雷达点云（TLS）单木分割面临的参数敏感、边界判定刚性与泛化能力不足等问题，本项目提出了一种融合拓扑流形与生物学先验的自动化分割框架。
  
